@@ -1,6 +1,6 @@
 <h1 align="center">👋Welcome to Themarro👋</h1>
 
-![Themarro VS Code theme](https://via.placeholder.com/728x180.png)
+![Themarro VS Code theme](https://raw.githubusercontent.com/adamthecro/Themarro/master/capture.png)
 
 ## Install
 
