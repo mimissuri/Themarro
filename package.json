@@ -3,11 +3,12 @@
     "publisher": "aelmessaarab",
     "displayName": "Themarro",
     "description": "Themarro de locos",
+    "icon": "themarroLogo.png",
     "repository": {
       "type": "git",
       "url": "https://github.com/adamthecro/Themarro"
     },
-    "version": "0.0.3",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.57.0"
     },
