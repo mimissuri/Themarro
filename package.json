@@ -1,14 +1,14 @@
 {
-    "name": "Themarro",
+    "name": "themarro",
     "publisher": "aelmessaarab",
     "displayName": "Themarro",
-    "description": "Themarro de locos",
+    "description": "Themarrerrimo",
     "icon": "themarroLogo.png",
     "repository": {
       "type": "git",
       "url": "https://github.com/adamthecro/Themarro"
     },
-    "version": "0.1.0",
+    "version": "0.1.2",
     "engines": {
         "vscode": "^1.57.0"
     },
@@ -23,9 +23,14 @@
                 "path": "./themes/Themarro-color-theme.json"
             },
             {
-                "label": "Themarro Contrast",
+                "label": "Themarro Dark Contrast",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Themarro-color-theme-contrast.json"
+                "path": "./themes/Themarro-contrast-color-theme.json"
+            },
+            {
+                "label": "Themarro David Remix",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Themarro-david-remix-color-theme.json"
             }
         ]
     }
